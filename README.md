@@ -1,6 +1,6 @@
 # Hi, I'm Subrahmanya Hegde 👋
 
-🎓 BCA Graduate | 💻 Aspiring Full-Stack Developer | 🚀 Learning Python, Django, and REST APIs
+🎓 BCA Graduate | 💻 Aspiring Software Developer | 🚀 Learning Python, Django, and REST APIs
 
 I'm a passionate BCA graduate with a strong foundation in web development and backend systems. Currently focused on mastering Python, Django, and building REST APIs. 
 I enjoy turning ideas into real-world projects and always eager to learn something new.
