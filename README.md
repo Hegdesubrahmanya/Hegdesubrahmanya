@@ -26,8 +26,7 @@ I enjoy turning ideas into real-world projects and always eager to learn somethi
 
 ## 🌱 Currently Learning
 - Django REST API
-- Frontend Animations
-- JavaScript + React Basics
+- Pandas
 
 ---
 
